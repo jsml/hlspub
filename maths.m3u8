@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:32
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="https://liveguruji.com/wp-content/uploads/lectures/test/enc.key",IV=0x8fd909f3ccb085546132fec07839eec8
+#EXTINF:30.560000,
+https://drive.google.com/file/d/12HvEs7Dys6NIMiiqT7VlHLUDbhs0VNo6/view?usp=sharing
+#EXTINF:31.720000,
+https://drive.google.com/file/d/1wAvRQmf0HrN97cqSQlDEAbjGh3EkB9Vk/view?usp=sharing
+#EXTINF:29.680000,
+https://drive.google.com/file/d/1WAJhD-Vs5NESdR5AO9QUSEqwZcrHhm8k/view?usp=sharing
+#EXTINF:20.560000,
+https://drive.google.com/file/d/12eRfOTlZOlVwmo1BxUx-FqBWbqnTdZuZ/view?usp=sharing
+#EXT-X-ENDLIST
